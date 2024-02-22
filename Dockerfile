@@ -1,1 +1,1 @@
-FROM nats:2.1.9-alpine3.12
+FROM layer5/meshsync:stable-latest
