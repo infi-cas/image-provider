@@ -1,1 +1,1 @@
-FROM layer5/meshery:stable-latest
+FROM layer5/meshery-operator:stable-latest
