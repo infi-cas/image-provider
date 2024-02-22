@@ -1,1 +1,1 @@
-FROM layer5/meshsync:stable-latest
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.5.0
