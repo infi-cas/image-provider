@@ -1,1 +1,1 @@
-FROM layer5/meshery-operator:stable-latest
+FROM nats:2.1.9-alpine3.12
