@@ -1,1 +1,1 @@
-FROM ghcr.io/kube-vip/kube-vip:v0.7.0
+FROM layer5/meshery:stable-latest
