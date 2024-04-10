@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.5.0
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
